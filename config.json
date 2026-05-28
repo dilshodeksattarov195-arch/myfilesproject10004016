@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceeelete",
+        "uuid": 27437312,
+        "checksum": "v22v9h"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
